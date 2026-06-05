@@ -1,7 +1,7 @@
 import asyncpg
 import asyncio
 
-DB_URL = "" //< add your db link here
+DB_URL = ""
 
 pool = None
 
